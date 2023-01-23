@@ -30,7 +30,7 @@ disqusShortname = ""
     text = "Please visit [this page](/)"
 
   # Navigation Section
-  # TODO: Remove params
+  # TODO: Remove params 
   [params.navigation]
     title = "The DevOps Toolkit Series"
     subtitle = "By Viktor Farcic"
