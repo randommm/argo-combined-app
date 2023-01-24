@@ -7,4 +7,4 @@ resources:
 namespace: staging
 images:
   - name: marcoinacio/argo-combined-app
-    newTag: "placeholder"
+    newTag: "cfdc378f02a72ff04424921e47b66e562eb13051"
