@@ -6,4 +6,6 @@ resources:
 - istio.yaml
 - rollout.yaml
 namespace: production
-
+images:
+  - name: marcoinacio/argo-combined-app
+    newTag: "v3.1.2"
