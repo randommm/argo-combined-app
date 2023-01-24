@@ -8,4 +8,4 @@ resources:
 namespace: production
 images:
   - name: marcoinacio/argo-combined-app
-    newTag: "v3.1.2"
+    newTag: "cfdc378f02a72ff04424921e47b66e562eb13051"
